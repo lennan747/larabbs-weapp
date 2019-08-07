@@ -1,47 +1,16 @@
 {
-	"description": "项目配置文件",
-	"packOptions": {
-		"ignore": []
-	},
+	"description": "larabbs wapp project",
 	"setting": {
 		"urlCheck": true,
-		"es6": true,
-		"postcss": true,
-		"minified": true,
-		"newFeature": true,
-		"autoAudits": false,
-		"coverView": true
+		"es6": false,
+		"postcss": false,
+		"minified": false
 	},
 	"compileType": "miniprogram",
-<<<<<<< HEAD
-	"libVersion": "2.8.0",
-=======
-	"libVersion": "2.7.7",
->>>>>>> 2b2085deecf3b23cd1321609defaca90e51e6387
 	"appid": "wx899351563b96682c",
-	"projectname": "LaraBBS",
-	"debugOptions": {
-		"hidedInDevtools": []
-	},
-	"isGameTourist": false,
+	"projectname": "larabbs-weapp",
+	"miniprogramRoot": "dist/",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
-	"condition": {
-		"search": {
-			"current": -1,
-			"list": []
-		},
-		"conversation": {
-			"current": -1,
-			"list": []
-		},
-		"game": {
-			"currentL": -1,
-			"list": []
-		},
-		"miniprogram": {
-			"current": -1,
-			"list": []
-		}
-	}
+	"condition": {}
 }
