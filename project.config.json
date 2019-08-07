@@ -13,7 +13,11 @@
 		"coverView": true
 	},
 	"compileType": "miniprogram",
+<<<<<<< HEAD
 	"libVersion": "2.8.0",
+=======
+	"libVersion": "2.7.7",
+>>>>>>> 2b2085deecf3b23cd1321609defaca90e51e6387
 	"appid": "wx899351563b96682c",
 	"projectname": "LaraBBS",
 	"debugOptions": {
